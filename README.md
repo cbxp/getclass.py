@@ -1,8 +1,12 @@
-[![](https://img.shields.io/pypi/pyversions/getclass.svg?longCache=True)](https://pypi.org/pypi/getclass/)
-[![](https://img.shields.io/pypi/v/getclass.svg?maxAge=3600)](https://pypi.org/pypi/getclass/)
+<!--
+https://pypi.org/project/readme-generator/
+-->
+
+[![](https://img.shields.io/pypi/pyversions/getclass.svg?longCache=True)](https://pypi.org/project/getclass/)
+[![](https://img.shields.io/pypi/v/getclass.svg?maxAge=3600)](https://pypi.org/project/getclass/)
 [![Travis](https://api.travis-ci.org/looking-for-a-job/getclass.py.svg?branch=master)](https://travis-ci.org/looking-for-a-job/getclass.py/)
 
-#### Install
+#### Installation
 ```bash
 $ [sudo] pip install getclass
 ```
@@ -10,7 +14,7 @@ $ [sudo] pip install getclass
 #### Functions
 function|`__doc__`
 -|-
-`getclass.getclass(obj)`|return instance/method/property/classmethod/staticmethod class
+`getclass.getclass(obj)` |return instance/method/property/classmethod/staticmethod class
 
 #### Examples
 ```python
@@ -46,4 +50,6 @@ function|`__doc__`
 <class __main__.CLS>
 ```
 
-<p align="center"><a href="https://pypi.org/project/readme-md/">readme-md</a> - README.md generator</p>
+<p align="center">
+    <a href="https://pypi.org/project/readme-generator/">readme-generator</a>
+</p>
